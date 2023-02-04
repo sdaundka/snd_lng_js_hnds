@@ -152,3 +152,5 @@ class AlphaColor extends Color {
 
 var alpha = new AlphaColor(255, 0, 0, 10);
 console.log(alpha.toString());
+
+//Tried class hands on.

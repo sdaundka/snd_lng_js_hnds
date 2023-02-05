@@ -1,0 +1,1 @@
+//This file contains snippets for js promises

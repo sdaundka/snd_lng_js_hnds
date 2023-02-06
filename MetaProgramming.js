@@ -1,8 +1,11 @@
 //This is the file for the Meta programming js. 
-//Lets start doing the meta program assignments
-//Assignment: 1
+//Create the assignment prototype
+//Lets start doing the meta program assignments.
 
+//Assignment 1:
 
-//Assignment: 2
+//Assignment 2:
+
+//Assignment 3:
 
 //Done
